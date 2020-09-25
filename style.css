@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+#welcome {
+    background: linear-gradient(#B5F7D5 0%, #003E1E 100%);
+}
+
+h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 100px;
+}
+
+.wetr {
+    height: 10px;
+    background-color: darkblue;
+    width: 100px;
+    margin: 8px auto;
+}
+#Games {
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.BI28ct3LPLErdUSqRXbwyAHaEK&pid=Api&P=0&w=313&h=177);
+    background-size: cover;
+}
+
+
